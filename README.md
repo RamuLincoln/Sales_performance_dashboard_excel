@@ -10,7 +10,7 @@ The goal is to transform sales data into meaningful business insights that suppo
 
 ## Dashboard Preview
 
-![Excel Sales Performance Dashboard](images/sales-performance-dashboard.png)
+![Excel Sales Performance Dashboard](excel_dashboard.png)
 
 ## Key Performance Indicators (KPIs)
 
